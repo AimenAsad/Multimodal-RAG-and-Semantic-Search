@@ -1,0 +1,14 @@
+streamlit
+openai
+pymupdf
+pytesseract
+sentence-transformers
+chromadb
+python-dotenv
+pillow
+langchain
+plotly
+umap-learn
+rouge
+nltk
+rouge-score
